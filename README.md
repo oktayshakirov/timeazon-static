@@ -1,12 +1,10 @@
 # Static E-commerce Platform with React.js
 
-This project presents a static version of our dynamic e-commerce platform, designed exclusively with React.js. Intended for demonstration purposes, this rendition operates entirely as a frontend application, sourcing its data directly from a JavaScript file, eliminating the need for backend operations.
+This project presents a static version of a fullstack e-commerce platform, designed with React.js for the front end and using Strapi.js for the backend. Intended for demonstration purposes, this version operates entirely as a frontend application, sourcing its data directly from a JavaScript file, eliminating the need for backend operations. The static version provides a glimpse into the capabilities of the full-fledged platform, offering a fast, lightweight and offline-capable alternative for showcases or demos.
 
 <p align="center">
   <a href="https://github.com/oktayshakirov/timeazon-fullstack"><strong>➥ Full Stack Version + Admin Panel</strong></a>
 </p>
-
-This static version provides a glimpse into the capabilities of the full-fledged platform, offering a fast, lightweight, and offline-capable alternative for showcases or demos.
 
 ![Desktop Demo](http://www.oktayshakirov.com/assets/images/projects/watch_store.png "Desktop Demo")
 
