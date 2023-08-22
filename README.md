@@ -3,7 +3,7 @@
 This project presents a static version of our dynamic e-commerce platform, designed exclusively with React.js. Intended for demonstration purposes, this rendition operates entirely as a frontend application, sourcing its data directly from a JavaScript file, eliminating the need for backend operations.
 
 <p align="center">
-  <a href="https://github.com/oktayshakirov/timeazonfull-stack"><strong>➥ Full Stack Version + Admin Panel</strong></a>
+  <a href="https://github.com/oktayshakirov/timeazon-fullstack"><strong>➥ Full Stack Version + Admin Panel</strong></a>
 </p>
 
 This static version provides a glimpse into the capabilities of the full-fledged platform, offering a fast, lightweight, and offline-capable alternative for showcases or demos.
