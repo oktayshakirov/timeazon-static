@@ -10,11 +10,11 @@ This static version provides a glimpse into the capabilities of the full-fledged
 
 ![Desktop Demo](http://www.oktayshakirov.com/assets/images/projects/watch_store.png "Desktop Demo")
 
-![Desktop Demo](https://raw.githubusercontent.com/oktayshakirov/online-store/main/public/demo1.png "Desktop Demo")
+![Desktop Demo](https://raw.githubusercontent.com/oktayshakirov/timeazon-static/main/public/demo1.png "Desktop Demo")
 
-![Desktop Demo](https://raw.githubusercontent.com/oktayshakirov/online-store/main/public/demo2.png "Desktop Demo")
+![Desktop Demo](https://raw.githubusercontent.com/oktayshakirov/timeazon-static/main/public/demo2.png "Desktop Demo")
 
-![Desktop Demo](https://raw.githubusercontent.com/oktayshakirov/online-store/main/public/demo3.png "Desktop Demo")
+![Desktop Demo](https://raw.githubusercontent.com/oktayshakirov/timeazon-static/main/public/demo3.png "Desktop Demo")
 
 <p align="center">
   <a href="https://timeazon.netlify.app/"><strong>➥ Live Demo</strong></a>
