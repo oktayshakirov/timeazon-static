@@ -19,7 +19,7 @@ The primary feature of the application is the product page, which provides an ex
 
 ![Desktop Demo](https://raw.githubusercontent.com/oktayshakirov/timeazon-static/main/public/demo2.png "Desktop Demo")
 
-One essential feature is the shopping cart system, allowing users to manage their product selections conveniently. The integration of Strapi, a headless CMS, supports efficient content management on the platform, permitting the addition, editing, or deletion of items, categories, subcategories and variable tags.
+Essential feature is the shopping cart system, allowing users to manage their product selections conveniently. The integration of Strapi, a headless CMS, supports efficient content management on the platform, permitting the addition, editing, or deletion of items, categories, subcategories and variable tags.
 
 ![Desktop Demo](https://raw.githubusercontent.com/oktayshakirov/timeazon-static/main/public/demo3.png "Desktop Demo")
 
@@ -74,6 +74,11 @@ yarn install
 ```
 
 Now, you should be able to access the application at http://localhost:3000.
+
+### Edit Products
+
+The data can be edited through the data.js file which can be found in the Data folder.
+Products images can be found and replaced in public/uploads.
 
 ### Deployment
 
