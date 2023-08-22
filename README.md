@@ -27,18 +27,6 @@ Essential feature is the shopping cart system, allowing users to manage their pr
   <a href="https://timeazon.netlify.app/"><strong>➥ Live Demo</strong></a>
 </p>
 
-Features:
-
-Responsive Interface: Crafted with Sass, the platform's design is not only visually appealing but also fluidly adjusts to all screen sizes.
-
-Structured Product Display: Products are meticulously presented with in-depth details, such as descriptions, images, and prices. They're systematically organized into categories and subcategories, ensuring effortless user navigation.
-
-Engaging Slider: Captivate users with an automatic slider that refreshes every seven seconds, supplemented by a navigation bar and dedicated tabs for highlighted and trending products.
-
-Intuitive Pricing Markers: Showcase discounts on products or use badges to highlight new arrivals.
-
-Streamlined Shopping Cart System: Despite being static, users can simulate the experience of selecting, reviewing, and managing their product choices.
-
 ## Installation
 
 Before you start, ensure you have npm or yarn installed on your system.
