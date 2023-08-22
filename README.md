@@ -10,9 +10,16 @@ This static version provides a glimpse into the capabilities of the full-fledged
 
 ![Desktop Demo](http://www.oktayshakirov.com/assets/images/projects/watch_store.png "Desktop Demo")
 
+Responsive Interface: Crafted with Sass, the platform's design is not only visually appealing but also fluidly adjusts to all screen sizes.
+An attention-grabbing feature is the automatic slider that updates every seven seconds. Coupled with a navigational bar and dedicated tabs for featured and trending posts.
+
 ![Desktop Demo](https://raw.githubusercontent.com/oktayshakirov/timeazon-static/main/public/demo1.png "Desktop Demo")
 
+The primary feature of the application is the product page, which provides an extensive display of product information - including descriptions, images, and pricing. Products are further organized into categories and subcategories for better user navigation.
+
 ![Desktop Demo](https://raw.githubusercontent.com/oktayshakirov/timeazon-static/main/public/demo2.png "Desktop Demo")
+
+One essential feature is the shopping cart system, allowing users to manage their product selections conveniently. The integration of Strapi, a headless CMS, supports efficient content management on the platform, permitting the addition, editing, or deletion of items, categories, subcategories and variable tags.
 
 ![Desktop Demo](https://raw.githubusercontent.com/oktayshakirov/timeazon-static/main/public/demo3.png "Desktop Demo")
 
